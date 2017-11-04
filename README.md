@@ -1,1 +1,1 @@
-# An implementation of Dijkstra's shortest paths algorithm using a priority queue.
+An implementation of Dijkstra's shortest paths algorithm using a priority queue.
